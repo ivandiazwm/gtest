@@ -1,5 +1,5 @@
-http://www.google.com/
-http://www.youtube.com/
-http://www.facebook.com/
+<a>http://www.google.com/</a>
+<a>http://www.youtube.com/</a>
+<a>http://www.facebook.com/</a>
 
 Put this thing in firefox
