@@ -1,4 +1,4 @@
-name: Ivan Diaz
+name: <b>Ivan Diaz</b>
 email: ivan@opensupports.com
 city: Rosario
-country: Argentina
+country: <i>Argentina</i>
